@@ -1,6 +1,0 @@
-{
-    "editor.formatOnSave": true,
-    "editor.formatOnPaste": true,
-    "notebook.defaultFormatter": "ms-python.black-formatter",
-    "notebook.formatOnSave.enabled": true
-}
